@@ -40,7 +40,7 @@
     "nopter": "~0.3.0",
     "parse5": "^2.1.5",
     "robot-directives": "~0.3.0",
-    "robots-txt-guard": "~0.1.0",
+    "robots-txt-guard": "~0.2.1",
     "robots-txt-parse": "~0.0.4",
     "urlcache": "~0.6.0",
     "urlobj": "0.0.8"
